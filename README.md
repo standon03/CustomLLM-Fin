@@ -20,17 +20,6 @@ This project reflects a full machine learning development cycle: data preprocess
 
 ---
 
-## Repository Structure
-CustomLLM-Fin/
-├── models/
-│ ├── Custom_FinLLM.ipynb # Attempt to build a transformer from scratch
-│ └── Fin_GPT_2_Fine_Tuning_CLEAN.ipynb # GPT-2 fine-tuning and evaluation pipeline
-├── Dataset.json.zip # Tokenized instruction dataset (from wealth-alpaca_lora)
-├── README.md # Documentation for understanding and reproducibility
-
-
----
-
 ## Notebook Overviews
 
 ### `models/Custom_FinLLM.ipynb`

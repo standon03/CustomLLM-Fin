@@ -31,7 +31,7 @@ CustomLLM-Fin/
 
 ---
 
-## 📓 Notebook Overviews
+## Notebook Overviews
 
 ### `models/Custom_FinLLM.ipynb`
 
@@ -62,7 +62,7 @@ This notebook builds on the lessons from the first attempt and successfully fine
 
 ---
 
-## 📊 Dataset Details
+## Dataset Details
 
 - **Source**: [`gbharti/wealth-alpaca_lora`](https://huggingface.co/datasets/gbharti/wealth-alpaca_lora)
 - **Format**: Prompt–response instruction pairs for financial Q&A
